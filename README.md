@@ -6,23 +6,23 @@ Estas una aplicación especializada en el cálculo e impresión de formas fiscal
 
 ## vista previa
 
-**Iniciando aplicación**
+### Iniciando aplicación
 ![preview](http://clio-ve.sourceforge.net/images/prev_gui.gif)
 
-**Control de inventario**
+### Control de inventario
 ![preview](http://clio-ve.sourceforge.net/images/prev_stock.gif)
 
-**Editor de formas**
+### Editor de formas
 ![preview](http://clio-ve.sourceforge.net/images/prev_forme.gif)
 
-**Calendario de obligaciones**
+### Calendario de obligaciones
 ![preview](http://clio-ve.sourceforge.net/images/prev_dutyc.gif)
 
-**Impresión**
+### Impresión
 ![preview](http://clio-ve.sourceforge.net/images/prev_print.gif)
 
-**Ayuda**
-![preview](http://clio-ve.sourceforge.net/images/prev_print.gif)
+### Ayuda
+![preview](http://clio-ve.sourceforge.net/images/prev_help.gif)
 
 ## Mas informacion en
 **Clio website: 
